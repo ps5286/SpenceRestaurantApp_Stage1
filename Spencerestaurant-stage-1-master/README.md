@@ -1,4 +1,4 @@
-# Mobile Web Specialist Certification Course
+# UDACITY FEND COURSE
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
